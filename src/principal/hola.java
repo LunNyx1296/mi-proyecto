@@ -3,8 +3,8 @@ package principal;
 public class hola {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("El mejor proyecto.");
+		System.out.println("Sin duda alguna.");
 	}
 
 }
